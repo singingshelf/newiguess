@@ -1,0 +1,8 @@
+Epoch [1/8] | Train Loss: 0.2858 | Test Loss: 0.3075 | Accuracy: 91.2321
+Epoch [2/8] | Train Loss: 0.2848 | Test Loss: 0.3042 | Accuracy: 91.0529
+Epoch [3/8] | Train Loss: 0.2826 | Test Loss: 0.2876 | Accuracy: 91.8690
+Epoch [4/8] | Train Loss: 0.2805 | Test Loss: 0.3015 | Accuracy: 91.5605
+Epoch [5/8] | Train Loss: 0.2804 | Test Loss: 0.3015 | Accuracy: 91.2420
+Epoch [6/8] | Train Loss: 0.2800 | Test Loss: 0.3005 | Accuracy: 91.8193
+Epoch [7/8] | Train Loss: 0.2808 | Test Loss: 0.3003 | Accuracy: 91.5406
+Epoch [8/8] | Train Loss: 0.2806 | Test Loss: 0.3305 | Accuracy: 90.5056
